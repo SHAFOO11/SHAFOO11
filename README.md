@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Sharif Abdulkadir Sharif</h1>
+<h1 align="center">Hi 👋, I'm  SHARIF ABDULKADIR ALI </h1>
 <h3 align="center">Computer Science Student | Web Developer | Future AI Engineer</h3>
 
 <p align="center">
