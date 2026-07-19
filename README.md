@@ -66,15 +66,6 @@
 
 ## 💼 Work Experience
 
-### 👔 Garment Inspector
-- Inspected clothing items to ensure quality standards.
-- Developed excellent attention to detail.
-- Worked efficiently under production deadlines.
-
-### 🏠 Property Listing Coordinator
-- Managed property listings across multiple platforms.
-- Coordinated with team members.
-- Improved communication and organization skills.
 
 ### 🗂 Office Assistant
 - Assisted with administrative tasks.
