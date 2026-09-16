@@ -147,27 +147,7 @@ Relevant Coursework
 
 ---
 
-## 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SHAFO011&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SHAFO011&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAFO011&theme=tokyo-night"/>
-</p>
 
 ---
 
