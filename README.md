@@ -4,13 +4,13 @@
 
 ### Computer Science Student · Software Developer · Future AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=FF8A00&center=true&vCenter=true&width=720&lines=Building+for+the+web.;Learning+backend+development.;Exploring+AI+and+intelligent+systems.;Turning+ideas+into+real+projects." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=720&lines=Building+for+the+web.;Learning+backend+development.;Exploring+AI+and+intelligent+systems.;Turning+ideas+into+real+projects." alt="Typing animation" />
 
 <br />
 
-<a href="mailto:sshaaarif1@gmail.com"><img src="https://img.shields.io/badge/Email-FF8A00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:sshaaarif1@gmail.com"><img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/SHAFOO11"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-2F6FED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
@@ -128,12 +128,12 @@ AI Engineering    ████████░░░░░░░░░░  Growin
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SHAFOO11&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF8A00&icon_color=FF8A00&text_color=9CA3AF&rank_icon=github" alt="GitHub statistics" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAFOO11&layout=compact&hide_border=true&bg_color=00000000&title_color=FF8A00&text_color=9CA3AF&langs_count=8" alt="Most used languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SHAFOO11&show_icons=true&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=4A90E2&text_color=9CA3AF&rank_icon=github" alt="GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAFOO11&layout=compact&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=9CA3AF&langs_count=8" alt="Most used languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=SHAFOO11&hide_border=true&background=00000000&ring=FF8A00&fire=FF8A00&currStreakLabel=FF8A00&sideLabels=9CA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=SHAFOO11&hide_border=true&background=00000000&ring=D4AF37&fire=4A90E2&currStreakLabel=D4AF37&sideLabels=9CA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
 
 </div>
 
@@ -143,7 +143,17 @@ AI Engineering    ████████░░░░░░░░░░  Growin
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAFOO11&bg_color=00000000&color=9CA3AF&line=FF8A00&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAFOO11&bg_color=00000000&color=9CA3AF&line=D4AF37&point=4A90E2&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SHAFOO11/SHAFOO11/output/github-snake.svg" alt="GitHub contribution snake" width="100%" />
 
 </div>
 
