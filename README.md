@@ -108,7 +108,7 @@ Exploring Python and the foundations behind modern AI applications, with a long-
 <b>Java</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma" /><br />
+
 
 </td>
 <td align="center" width="110">
