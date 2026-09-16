@@ -1,6 +1,6 @@
 <div align="center">
 
-# SHARIF  ALI
+# SHARIF ALI
 
 ### Computer Science Student · Software Developer · Future AI Engineer
 
@@ -8,9 +8,12 @@
 
 <br />
 
-<a href="mailto:sshaaarif1@gmail.com"><img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/SHAFOO11"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-2F6FED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://komarev.com/ghpvc/?username=SHAFOO11&style=flat-square&color=D4AF37&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br /><br />
+
+<a href="mailto:sshaaarif1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D4AF37?style=for-the-badge&logo=gmail&logoColor=111827" alt="Email" /></a>
+<a href="https://github.com/SHAFOO11"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
@@ -23,14 +26,14 @@ I'm a **Computer Science student at City University Malaysia** who enjoys turnin
 - 🎓 Bachelor of Computer Science · Expected **May 2028**
 - 💻 Focused on **web development, backend systems, and Python**
 - 🤖 Working toward **AI engineering and AI agent development**
-- 🌱 Currently growing from frontend development into full-stack and AI
+- 🌱 Growing from frontend development into full-stack and AI
 - 📍 Cyberjaya, Selangor, Malaysia
 
-> **My goal:** build simple, useful, and intelligent software while continuously improving my engineering skills.
+> **Build. Learn. Improve. Repeat.**
 
 ---
 
-## 🚀 What I'm Working On
+## ⚡ What I'm Working On
 
 <table width="100%">
 <tr>
@@ -40,16 +43,16 @@ I'm a **Computer Science student at City University Malaysia** who enjoys turnin
 
 Building modern web applications and learning how frontend, backend, APIs, and databases work together.
 
-**Learning:** React · Next.js · Node.js · Express · REST APIs
+**Focus:** React · Next.js · Node.js · REST APIs
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 AI Engineering
 
-Exploring Python and the tools behind modern AI applications, with a long-term focus on AI agents and intelligent systems.
+Exploring Python and the foundations behind modern AI applications, with a long-term focus on intelligent systems and agents.
 
-**Exploring:** Python · FastAPI · RAG · LLMs · AI Agents
+**Focus:** Python · FastAPI · RAG · LLMs · AI Agents
 
 </td>
 </tr>
@@ -59,68 +62,120 @@ Exploring Python and the tools behind modern AI applications, with a long-term f
 
 ## 🧰 Tech Stack
 
+### Programming Languages
+
 <div align="center">
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend technologies" />
-
-### Backend & AI
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" alt="Backend and AI technologies" />
-
-### Database & Tools
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,figma" alt="Database and tools" />
-
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,sql" alt="Programming languages" />
 </div>
 
----
+### Tools & Platforms
 
-## 📌 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🐍 Python Projects
-Automation scripts, backend utilities, and Python projects built while developing practical programming skills.
-
-</td>
-<td width="50%" valign="top">
-
-### ☕ Java Projects
-Object-oriented applications created while strengthening core Java and software design concepts.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Backend APIs
-RESTful services and server-side projects focused on clean structure, APIs, and practical backend development.
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Projects
-Experiments and applications exploring machine learning, automation, LLMs, and the foundations of my AI engineering path.
-
-</td>
-</tr>
-</table>
-
-> 🚧 **More projects are being built and will be added here as they become ready.**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,idea,figma,mysql" alt="Tools and platforms" />
+</div>
 
 ---
 
 ## 📚 Currently Learning
 
-```text
-React.js          ███████████████░░░  Frontend
-Next.js           ███████████░░░░░░░  Full-Stack
-Python            ████████████░░░░░░  Backend / AI
-REST APIs         ███████████░░░░░░░  Backend
-Git & GitHub      █████████████░░░░░  Workflow
-AI Engineering    ████████░░░░░░░░░░  Growing
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/BACKEND_ENGINEERING-0D1117?style=for-the-badge&logo=server&logoColor=D4AF37" alt="Backend engineering" />
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-0D1117?style=for-the-badge&logo=openai&logoColor=4A90E2" alt="Artificial intelligence" />
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-0D1117?style=for-the-badge&logo=tensorflow&logoColor=D4AF37" alt="Machine learning" />
+<img src="https://img.shields.io/badge/DATA_ENGINEERING-0D1117?style=for-the-badge&logo=databricks&logoColor=4A90E2" alt="Data engineering" />
+<img src="https://img.shields.io/badge/SOFTWARE_ARCHITECTURE-0D1117?style=for-the-badge&logo=blueprint&logoColor=D4AF37" alt="Software architecture" />
+<img src="https://img.shields.io/badge/REST_APIS-0D1117?style=for-the-badge&logo=fastapi&logoColor=4A90E2" alt="REST APIs" />
+
+</div>
+
+---
+
+## 🖥️ My Workspace
+
+<div align="center">
+
+### Sharif's Digital Command Center
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" /><br />
+<b>Python</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=java" width="48" alt="Java" /><br />
+<b>Java</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma" /><br />
+<b>Figma</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /><br />
+<b>GitHub</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" /><br />
+<b>VS Code</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL" /><br />
+<b>MySQL</b>
+</td>
+</tr>
+</table>
+
+`AI ENGINEERING: LEARNING` · `BACKEND: BUILDING` · `PYTHON: ACTIVE`
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 Python Programming
+
+Coursework and practical Python projects built while strengthening programming, problem-solving, and data skills.
+
+<a href="https://github.com/SHAFOO11/ALI-SHARIF-ABDULKADIR-SHARIF--202505010493-PYTHON-PROGRAMMING">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ☕ Java Programming
+
+Object-oriented programming work focused on Java fundamentals, classes, objects, and software design.
+
+<a href="https://github.com/SHAFOO11/ALI-SHARIF-ABDULKADIR-SHARIF--202505010493-JAVA-PROGRAMMING">View Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Library Management System
+
+A Java-based object-oriented project demonstrating a practical management-system structure.
+
+<a href="https://github.com/SHAFOO11/OBJECT-ORIENTED-PROGRAMMING-ASSIGNMENT-2-Library-Management-System">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Web & AI Projects
+
+More personal projects are being developed as I move deeper into full-stack development and AI engineering.
+
+`Next.js` · `Python` · `APIs` · `AI`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -128,12 +183,18 @@ AI Engineering    ████████░░░░░░░░░░  Growin
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SHAFOO11&show_icons=true&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=4A90E2&text_color=9CA3AF&rank_icon=github" alt="GitHub statistics" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAFOO11&layout=compact&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=9CA3AF&langs_count=8" alt="Most used languages" />
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=SHAFOO11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=4A90E2&text_color=E6EDF3&rank_icon=github&include_all_commits=true" height="180" alt="GitHub statistics" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAFOO11&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=E6EDF3&langs_count=8" height="180" alt="Most used languages" />
+</td>
+</tr>
+</table>
 
-<br />
-
-<img src="https://streak-stats.demolab.com?user=SHAFOO11&hide_border=true&background=00000000&ring=D4AF37&fire=4A90E2&currStreakLabel=D4AF37&sideLabels=9CA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=SHAFOO11&hide_border=true&background=0D1117&ring=D4AF37&fire=4A90E2&currStreakLabel=D4AF37&sideLabels=9CA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
 
 </div>
 
@@ -143,7 +204,7 @@ AI Engineering    ████████░░░░░░░░░░  Growin
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAFOO11&bg_color=00000000&color=9CA3AF&line=D4AF37&point=4A90E2&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAFOO11&bg_color=0D1117&color=9CA3AF&line=D4AF37&point=4A90E2&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity" width="100%" />
 
 </div>
 
@@ -153,7 +214,7 @@ AI Engineering    ████████░░░░░░░░░░  Growin
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SHAFOO11/SHAFOO11/output/github-snake.svg" alt="GitHub contribution snake" width="100%" />
+<img src="https://raw.githubusercontent.com/SHAFOO11/SHAFOO11/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%" />
 
 </div>
 
@@ -180,9 +241,8 @@ AI Engineering    ████████░░░░░░░░░░  Growin
 
 <div align="center">
 
-<a href="mailto:sshaaarif1@gmail.com">Email</a> ·
-<a href="https://github.com/SHAFOO11">GitHub</a> ·
-<a href="https://www.linkedin.com/">LinkedIn</a>
+<a href="mailto:sshaaarif1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D4AF37?style=for-the-badge&logo=gmail&logoColor=111827" alt="Email" /></a>
+<a href="https://github.com/SHAFOO11"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br /><br />
 
