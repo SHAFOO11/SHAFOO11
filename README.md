@@ -109,7 +109,7 @@ Exploring Python and the foundations behind modern AI applications, with a long-
 </td>
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma" /><br />
-<b>Figma</b>
+
 </td>
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /><br />
