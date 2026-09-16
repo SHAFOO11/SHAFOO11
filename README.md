@@ -1,6 +1,6 @@
 <div align="center">
 
-# SHARIF ABDULKADIR ALI
+# SHARIF  ALI
 
 ### Computer Science Student · Software Developer · Future AI Engineer
 
