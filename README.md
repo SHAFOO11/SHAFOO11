@@ -1,169 +1,181 @@
-<h1 align="center">Hi 👋, I'm  SHARIF ABDULKADIR ALI </h1>
-<h3 align="center">Computer Science Student | Web Developer | Future AI Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Web+Developer;Frontend+Developer;Learning+Backend+Development;Future+AI+Engineer" />
-</p>
+# SHARIF ABDULKADIR ALI
 
----
+### Computer Science Student · Software Developer · Future AI Engineer
 
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=FF8A00&center=true&vCenter=true&width=720&lines=Building+for+the+web.;Learning+backend+development.;Exploring+AI+and+intelligent+systems.;Turning+ideas+into+real+projects." alt="Typing animation" />
 
-🎓 Computer Science Student at **City University Malaysia**
+<br />
 
-📅 Expected Graduation: **May 2028**
+<a href="mailto:sshaaarif1@gmail.com"><img src="https://img.shields.io/badge/Email-FF8A00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/SHAFOO11"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-💻 Passionate about building modern, responsive, and user-friendly websites.
-
-🚀 Currently learning Full Stack Web Development and Artificial Intelligence.
-
-🌍 Based in **Cyberjaya, Selangor, Malaysia**
-
-📫 Reach me at **sshaaarif1@gmail.com**
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 👋 About Me
+
+I'm a **Computer Science student at City University Malaysia** who enjoys turning ideas into useful software.
+
+- 🎓 Bachelor of Computer Science · Expected **May 2028**
+- 💻 Focused on **web development, backend systems, and Python**
+- 🤖 Working toward **AI engineering and AI agent development**
+- 🌱 Currently growing from frontend development into full-stack and AI
+- 📍 Cyberjaya, Selangor, Malaysia
+
+> **My goal:** build simple, useful, and intelligent software while continuously improving my engineering skills.
+
+---
+
+## 🚀 What I'm Working On
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Full-Stack Development
+
+Building modern web applications and learning how frontend, backend, APIs, and databases work together.
+
+**Learning:** React · Next.js · Node.js · Express · REST APIs
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Engineering
+
+Exploring Python and the tools behind modern AI applications, with a long-term focus on AI agents and intelligent systems.
+
+**Exploring:** Python · FastAPI · RAG · LLMs · AI Agents
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
 
 ### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend technologies" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
+### Backend & AI
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" alt="Backend and AI technologies" />
 
-### Backend
+### Database & Tools
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,figma" alt="Database and tools" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-</p>
+</div>
 
-### Database
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+## 📌 Featured Projects
 
-### Tools
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop" />
-</p>
+### 🐍 Python Projects
+Automation scripts, backend utilities, and Python projects built while developing practical programming skills.
+
+</td>
+<td width="50%" valign="top">
+
+### ☕ Java Projects
+Object-oriented applications created while strengthening core Java and software design concepts.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend APIs
+RESTful services and server-side projects focused on clean structure, APIs, and practical backend development.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Projects
+Experiments and applications exploring machine learning, automation, LLMs, and the foundations of my AI engineering path.
+
+</td>
+</tr>
+</table>
+
+> 🚧 **More projects are being built and will be added here as they become ready.**
 
 ---
 
 ## 📚 Currently Learning
 
-- React.js
-- Next.js
-- Node.js & Express
-- Python
-- Git & GitHub
-- REST APIs
-- Responsive Web Design
-- AI & Agent Development
+```text
+React.js          ███████████████░░░  Frontend
+Next.js           ███████████░░░░░░░  Full-Stack
+Python            ████████████░░░░░░  Backend / AI
+REST APIs         ███████████░░░░░░░  Backend
+Git & GitHub      █████████████░░░░░  Workflow
+AI Engineering    ████████░░░░░░░░░░  Growing
+```
 
 ---
 
-## 💼 Work Experience
+## 📊 GitHub Statistics
 
+<div align="center">
 
-### 🗂 Office Assistant
-- Assisted with administrative tasks.
-- Managed documents and scheduling.
-- Worked in a professional office environment.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SHAFOO11&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF8A00&icon_color=FF8A00&text_color=9CA3AF&rank_icon=github" alt="GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAFOO11&layout=compact&hide_border=true&bg_color=00000000&title_color=FF8A00&text_color=9CA3AF&langs_count=8" alt="Most used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=SHAFOO11&hide_border=true&background=00000000&ring=FF8A00&fire=FF8A00&currStreakLabel=FF8A00&sideLabels=9CA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAFOO11&bg_color=00000000&color=9CA3AF&line=FF8A00&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+
+</div>
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Computer Science**
+**Bachelor of Computer Science**  
+**City University Malaysia** · Expected May 2028
 
-City University Malaysia
-
-Relevant Coursework
-
-- Web Development
-- Database Systems
-- Programming
-- UI/UX Design
+`Web Development` · `Programming` · `Database Systems` · `UI/UX Design` · `Software Engineering`
 
 ---
 
-## 🛠 Skills
+## 🌍 Languages
 
-### Programming
-
-- HTML
-- CSS
-- JavaScript
-- Python
-
-### Tools
-
-- Git
-- GitHub
-- Visual Studio Code
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe XD
-
-### Soft Skills
-
-- Teamwork
-- Problem Solving
-- Communication
-- Time Management
-- Working Under Pressure
+🇬🇧 **English** · Fluent  
+🇸🇦 **Arabic** · Native  
+🇸🇴 **Somali** · Native
 
 ---
 
-## 📜 Certifications
+## 🤝 Let's Connect
 
-- Introduction to Web Development
-- HTML & CSS Fundamentals
-- JavaScript Basics
-- Responsive Web Design
-- UI/UX Design Essentials
+<div align="center">
 
----
+<a href="mailto:sshaaarif1@gmail.com">Email</a> ·
+<a href="https://github.com/SHAFOO11">GitHub</a> ·
+<a href="https://www.linkedin.com/">LinkedIn</a>
 
-## 🌎 Languages
+<br /><br />
 
-- 🇬🇧 English (Fluent)
-- 🇸🇦 Arabic (Native)
-- 🇸🇴 Somali (Native)
+<sub>Learning every day · Building consistently · Improving one project at a time</sub>
 
----
-
-
----
-
-
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-
-<a href="mailto:sshaaarif1@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/SHAFO011">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-> *"Learning something new every day and turning ideas into real-world applications."*
-
-</p>
+</div>
