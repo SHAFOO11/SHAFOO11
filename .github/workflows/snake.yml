@@ -8,12 +8,12 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
       - name: Generate contribution snake
         uses: Platane/snk@v3
@@ -28,5 +28,6 @@ jobs:
         with:
           build_dir: dist
           target_branch: output
+          keep_history: true
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
